@@ -37,7 +37,7 @@ WeatherAPI is a simple API that provides weather information for a given city.
        ```
        - Set the `WEATHER_SECRET` environment variable to your VisualCrossing API key.
       <br>
-      <br>
+          <br>
        On Windows:
        ```sh
        set WEATHER_SECRET=your_api_key
