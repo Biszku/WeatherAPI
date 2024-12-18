@@ -54,7 +54,7 @@ WeatherAPI is a simple API that provides weather information for a given city.
 
 5. **Run the application:**
     ```sh
-    mvn exec:java
+    java -jar .\target\WeatherAPI-1.0-SNAPSHOT.jar
     ```
 
 ## Usage
