@@ -32,18 +32,18 @@ WeatherAPI is a simple API that provides weather information for a given city.
        set REDIS_CONN_STRING=your_redis_connection_string
        ```
        On Linux: 
-      ```sh
+       ```sh
        export REDIS_CONN_STRING=your_redis_connection_string
        ```
        - Set the `WEATHER_SECRET` environment variable to your VisualCrossing API key.
-      <br>
-      <br>
+         <br>
+            <br>
        On Windows:
        ```sh
        set WEATHER_SECRET=your_api_key
        ```
       On Linux:
-      ```sh
+       ```sh
        export WEATHER_SECRET=your_api_key
        ```
 
